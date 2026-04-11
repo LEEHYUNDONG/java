@@ -1,4 +1,4 @@
-rootProject.name = 'java-laboratory'
+rootProject.name = 'java'
 
 include 'dojo'
 include 'architecture'
